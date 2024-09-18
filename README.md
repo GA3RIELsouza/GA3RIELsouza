@@ -1,16 +1,12 @@
-## Hi there 👋
+<h2>Olá 👋</h2>
 
-<!--
-**GA3RIELsouza/GA3RIELsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <p>- 📚 Cursando o 2º semestre da graduação em Análise e Desenvolvimento de Sistemas no UniSENAI</p>
+    <p>- 📚 Cursando o +Devs2Blu de Flutter</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://linkedin.com/in/gabriells-">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+    </a>
+</div>
