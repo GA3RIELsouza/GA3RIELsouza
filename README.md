@@ -7,6 +7,6 @@
 
 <div>
     <a href="https://linkedin.com/in/gabriells-">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="32" width="32"/>
     </a>
 </div>
