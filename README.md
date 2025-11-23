@@ -9,11 +9,11 @@
 <h2>Welcome 🇺🇸</h2>
 
 <div>
-    <p>- 📚 Currently in the 4th semester of the Bachelor's degree in Analysis and Development of Systems at UniSENAI</p>
+    <p>- 📚 Currently in the 4th semester of the Associate's Degree in Systems Analysis and Development at UniSENAI</p>
 </div>
 
 <div>
-    <a href="https://linkedin.com/in/gabriells-">
+    <a href="https://linkedin.com/in/gabriells-" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="32" width="32"/>
     </a>
 </div>
